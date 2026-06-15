@@ -11,9 +11,7 @@ A web-based dashboard provides users with real-time visualizations, environmenta
 ---
 ## Final Project video
 
-
- https://drive.google.com/file/d/190HGrOw9sMJvpUwhaxPc7z1za-ShOz8t/view?usp=sharing
-
+https://drive.google.com/file/d/1yiYWhi8T5EPP2WSt7O96cXoKJRPmEQOc/view?usp=sharing
  
 ## Problem Statement
 
