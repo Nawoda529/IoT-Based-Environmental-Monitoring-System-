@@ -9,7 +9,12 @@ The system collects data from multiple environmental sensors, including temperat
 A web-based dashboard provides users with real-time visualizations, environmental status updates, and predictive insights, enabling informed decision-making and increased awareness of environmental conditions.
 
 ---
+## Final Project video
 
+
+ https://drive.google.com/file/d/190HGrOw9sMJvpUwhaxPc7z1za-ShOz8t/view?usp=sharing
+
+ 
 ## Problem Statement
 
 Environmental conditions such as air pollution, temperature fluctuations, humidity changes, and excessive noise can significantly affect human health and quality of life. Traditional environmental monitoring methods often require manual measurements and lack real-time accessibility.
